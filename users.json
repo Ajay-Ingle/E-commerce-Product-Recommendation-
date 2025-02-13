@@ -1,0 +1,8 @@
+[
+    { "user_id": 1, "name": "Ajay", "age": 20, "interests": ["Electronics", "Fashion"] },
+    { "user_id": 2, "name": "Abhijeet", "age": 20, "interests": ["Books", "Home Decor"] },
+    { "user_id": 3, "name": "Jayesh", "age": 20, "interests": ["Books", "Home Decor"] },
+    { "user_id": 4, "name": "Shubham", "age": 20, "interests": ["Books", "Home Decor"] }
+
+  ]
+  

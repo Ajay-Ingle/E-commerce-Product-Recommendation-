@@ -1,0 +1,5 @@
+[
+    { "user_id": 1, "purchased": ["Laptop", "Headphones"] },
+    { "user_id": 2, "purchased": ["Fiction Book", "Home Decor Lamp"] }
+  ]
+  
