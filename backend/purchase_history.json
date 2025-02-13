@@ -1,0 +1,19 @@
+[
+  {
+      "user_id": 1,
+      "searched": [
+          "fan",
+          "bulb",
+          "pen",
+          "fan",
+          "books"
+      ]
+  },
+  {
+      "user_id": 2,
+      "searched": [
+          "Kitchen Set",
+          "Home Decor Lamp"
+      ]
+  }
+]

@@ -1,0 +1,36 @@
+.purchase-history-container {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .purchase-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .purchase-item {
+    padding: 10px;
+    margin: 5px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .category {
+    font-style: italic;
+    color: gray;
+  }
+  
+  .back-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .back-button:hover {
+    background-color: #0056b3;
+  }
+  
